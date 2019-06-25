@@ -1,0 +1,10 @@
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\TraceabilitySoftware\bin\Debug\TraceabilitySoftware.exe.config
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\TraceabilitySoftware\bin\Debug\TraceabilitySoftware.exe
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\TraceabilitySoftware\bin\Debug\TraceabilitySoftware.pdb
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\TraceabilitySoftware\obj\Debug\TraceabilitySoftware.csprojAssemblyReference.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\TraceabilitySoftware\obj\Debug\TraceabilitySoftware.Form1.resources
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\TraceabilitySoftware\obj\Debug\TraceabilitySoftware.Properties.Resources.resources
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\TraceabilitySoftware\obj\Debug\TraceabilitySoftware.csproj.GenerateResource.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\TraceabilitySoftware\obj\Debug\TraceabilitySoftware.csproj.CoreCompileInputs.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\TraceabilitySoftware\obj\Debug\TraceabilitySoftware.exe
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\TraceabilitySoftware\obj\Debug\TraceabilitySoftware.pdb

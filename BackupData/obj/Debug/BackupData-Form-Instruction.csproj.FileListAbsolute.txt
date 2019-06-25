@@ -1,0 +1,10 @@
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\BackupData\bin\Debug\BackupData.exe.config
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\BackupData\bin\Debug\BackupData.exe
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\BackupData\bin\Debug\BackupData.pdb
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\BackupData\obj\Debug\BackupData-Form-Instruction.csprojAssemblyReference.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\BackupData\obj\Debug\BackupData.Form1.resources
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\BackupData\obj\Debug\BackupData.Properties.Resources.resources
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\BackupData\obj\Debug\BackupData-Form-Instruction.csproj.GenerateResource.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\BackupData\obj\Debug\BackupData-Form-Instruction.csproj.CoreCompileInputs.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\BackupData\obj\Debug\BackupData.exe
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\BackupData\obj\Debug\BackupData.pdb

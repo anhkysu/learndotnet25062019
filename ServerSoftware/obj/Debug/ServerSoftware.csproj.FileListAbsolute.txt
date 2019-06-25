@@ -1,0 +1,40 @@
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\27. Mr. Support\01. Project\NDT1902-003ServerBackup\ServerSoftware\bin\Debug\ServerSoftware.exe.config
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\27. Mr. Support\01. Project\NDT1902-003ServerBackup\ServerSoftware\bin\Debug\ServerSoftware.exe
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\27. Mr. Support\01. Project\NDT1902-003ServerBackup\ServerSoftware\bin\Debug\ServerSoftware.pdb
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\27. Mr. Support\01. Project\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.csprojAssemblyReference.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\27. Mr. Support\01. Project\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.Properties.Resources.resources
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\27. Mr. Support\01. Project\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.csproj.GenerateResource.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\27. Mr. Support\01. Project\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.csproj.CoreCompileInputs.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\27. Mr. Support\01. Project\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.exe
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\27. Mr. Support\01. Project\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.pdb
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup\ServerSoftware\bin\Debug\ServerSoftware.exe.config
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup\ServerSoftware\bin\Debug\ServerSoftware.exe
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup\ServerSoftware\bin\Debug\ServerSoftware.pdb
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.csprojAssemblyReference.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.Form1.resources
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.Properties.Resources.resources
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.csproj.GenerateResource.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.csproj.CoreCompileInputs.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.exe
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.pdb
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\27. Mr. Support\01. Project\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.Form1.resources
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup_MrCongBranch\NDT1902-003ServerBackup\ServerSoftware\bin\Debug\ServerSoftware.exe.config
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup_MrCongBranch\NDT1902-003ServerBackup\ServerSoftware\bin\Debug\ServerSoftware.exe
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup_MrCongBranch\NDT1902-003ServerBackup\ServerSoftware\bin\Debug\ServerSoftware.pdb
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup_MrCongBranch\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.csprojAssemblyReference.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup_MrCongBranch\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.Form1.resources
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup_MrCongBranch\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.Properties.Resources.resources
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup_MrCongBranch\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.csproj.GenerateResource.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup_MrCongBranch\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.csproj.CoreCompileInputs.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup_MrCongBranch\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.exe
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\NDT1902-003ServerBackup_MrCongBranch\NDT1902-003ServerBackup\ServerSoftware\obj\Debug\ServerSoftware.pdb
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\ServerSoftware\bin\Debug\ServerSoftware.exe.config
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\ServerSoftware\bin\Debug\ServerSoftware.exe
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\ServerSoftware\bin\Debug\ServerSoftware.pdb
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\ServerSoftware\obj\Debug\ServerSoftware.csprojAssemblyReference.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\ServerSoftware\obj\Debug\ServerSoftware.Form1.resources
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\ServerSoftware\obj\Debug\ServerSoftware.Properties.Resources.resources
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\ServerSoftware\obj\Debug\ServerSoftware.csproj.GenerateResource.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\ServerSoftware\obj\Debug\ServerSoftware.csproj.CoreCompileInputs.cache
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\ServerSoftware\obj\Debug\ServerSoftware.exe
+R:\RSHARE\02. Working Data\01. ITHC\01. RD DA NANG\16. IotSoft Man\17. dotNet Dev\EditMrCongBranch_here\ServerSoftware\obj\Debug\ServerSoftware.pdb
