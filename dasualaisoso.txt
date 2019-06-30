@@ -1,0 +1,130 @@
+using System;
+using System.IO;
+
+
+namespace WindowsFormsApp3
+{
+    public class Backuper
+    {
+        public string SourceDirectory { get; set; }
+        public string DestinationDirectory { get; set; }
+        public Boolean AutomaticOrManual { get; set; }
+        public int ProgressPercentage { get; set; }
+        public uint BackupInterval { get; set; }
+        public string TracebilityComputerName { get; set; }
+
+        public double amountOfDifference = 0;
+        public double percentageStep = 0;
+        public double percentageCompleted = 0;
+        public int progressPercent = 0;
+
+        public Backuper(string TracebilityComputerName)
+        {
+            this.TracebilityComputerName = TracebilityComputerName;
+        }
+
+        public void CopyFiles(IProgress<int> progress)
+        {
+            //const string Src_FOLDER = @"C:\Users\ts-575\TransferFiles\Source";
+            //const string Dest_FOLDER = @"C:\Users\ts-575\TransferFiles\Destination";
+            
+            string[] originalFiles = Directory.GetFiles(SourceDirectory, "*", SearchOption.AllDirectories);
+            string[] destineFiles = Directory.GetFiles(DestinationDirectory, "*", SearchOption.AllDirectories);
+            amountOfDifference = originalFiles.Length - destineFiles.Length;
+            if (amountOfDifference == 0) return;
+            percentageStep = 99 / amountOfDifference;
+            percentageCompleted = 0;
+            Console.WriteLine($"amountOfDifference{amountOfDifference}");
+
+            if (originalFiles.Length >= destineFiles.Length)
+            {
+                //percentageCompleted = 0;
+                Array.ForEach(originalFiles, (originalFileLocation) =>
+                {
+                    ///originalFileLocation is treated as an item inside the "originalFile" array and originalFileLocation is just a directory
+                    ///You can try to log this out: Console.WriteLine(originalFileLocation);
+                    FileInfo originalFile = new FileInfo(originalFileLocation);
+                    FileInfo destFile = new FileInfo(originalFileLocation.Replace(SourceDirectory, DestinationDirectory));
+
+                    Console.WriteLine($"originalFile LastWriteTime: { originalFile.LastWriteTime}");
+
+                    if (destFile.Exists)
+                    {
+                        if (originalFile.LastWriteTime >= destFile.LastWriteTime)
+                        {
+                            originalFile.CopyTo(destFile, x => { });
+                            Console.WriteLine("ahihi");
+                        }
+                    }
+
+                    else
+                    {
+                        Directory.CreateDirectory(destFile.DirectoryName);
+                        originalFile.CopyTo(destFile, x => { });
+                        percentageCompleted += percentageStep;
+                        Console.WriteLine($"percentage Step{percentageStep}");
+                        Console.WriteLine($"Percent Completed{percentageCompleted}");
+                        progressPercent = int.Parse(Math.Round(percentageCompleted).ToString());
+                        progress.Report(progressPercent);
+                    }
+                });
+
+                percentageCompleted = 0;
+                percentageStep = 0;
+                progressPercent = 0;
+                progress.Report(100);
+            }
+
+            /*
+            else
+            {
+                Array.ForEach(destineFiles, (destineFileLocation) =>
+                {
+                    ///originalFileLocation is treated as an item inside the "originalFile" array and originalFileLocation is just a directory
+                    ///You can try to log this out: Console.WriteLine(originalFileLocation);
+                    FileInfo destFile = new FileInfo(destineFileLocation);
+                    FileInfo originalFile = new FileInfo(destineFileLocation.Replace(DestinationDirectory, SourceDirectory));
+
+                    if (originalFile.Exists)
+                    {
+                        if (originalFile.Length != destFile.Length)
+                        {
+                            originalFile.CopyTo(destFile, x => { progress.Report(x); Console.WriteLine(x); });
+                            Console.WriteLine("File Copied.");
+                            progress.Report(100);
+                        }
+                    }
+                    else
+                    {
+                        destFile.Delete();
+                    }
+
+                });
+            }
+            */
+
+           
+        }
+
+
+        public void CreateTraceList()
+        {
+
+        }
+
+        public void GetProgress()
+        {
+
+        }
+
+        public void OperateManually()
+        {
+
+        }
+
+        public void OperateAutomatically()
+        {
+
+        }
+    }
+}
